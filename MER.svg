@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="331mm" xmlns="http://www.w3.org/2000/svg" height="242mm" version="1.1" viewBox="0 0 1254 918" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <polyline fill="none" points="558,408 558,468" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="567,395 558,421 548,395 567,395" stroke="#0080c0" stroke-width="1"/>
+   <ellipse cx="557" cy="424" rx="3" ry="3" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="563,455 552,455" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="558,680 558,635" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="548,694 558,667 567,694 548,694" stroke="#0080c0" stroke-width="1"/>
+   <ellipse cx="557" cy="663" rx="3" ry="3" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="552,648 563,648" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="680,717 901,717" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="667,707 693,717 667,726 667,707" stroke="#0080c0" stroke-width="1"/>
+   <ellipse cx="696" cy="716" rx="3" ry="3" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="888,711 888,722" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="352,316 437,316" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="339,306 365,316 339,325 339,306" stroke="#0080c0" stroke-width="1"/>
+   <ellipse cx="368" cy="315" rx="3" ry="3" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="424,310 424,321" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1114,194 1114,317" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1123,181 1114,208 1105,181 1123,181" stroke="#0080c0" stroke-width="1"/>
+   <ellipse cx="1113" cy="211" rx="3" ry="3" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1119,304 1108,304" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="990,194 990,316 754,316" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="999,181 990,208 980,181 999,181" stroke="#0080c0" stroke-width="1"/>
+   <ellipse cx="989" cy="211" rx="3" ry="3" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="767,321 767,310" stroke="#0080c0" stroke-width="1"/>
+   <rect x="419" y="468" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="419" y="468" fill="url(#Gradient1)" width="277" height="167" stroke="#0080c0" stroke-width="1"/>
+   <text x="557" y="479" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">TB_PERFIL_USUARIO</text>
+   <line x1="419" x2="696" y1="485" y2="485" stroke="#0080c0" stroke-width="1"/>
+   <text x="424" y="495" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">CO_PERFIL_USUARIO</text>
+   <text x="424" y="508" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">NO_PERFIL_USUARIO</text>
+   <text x="424" y="521" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">IN_ATIVO</text>
+   <text x="541" y="495" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">NUMBER(3)</text>
+   <text x="541" y="508" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">VARCHAR2(50)</text>
+   <text x="541" y="521" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">NUMBER(1)</text>
+   <text x="622" y="495" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="622" y="508" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;ak&gt;</text>
+   <text x="652" y="495" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">not null</text>
+   <text x="652" y="508" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <text x="652" y="521" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <line x1="419" x2="696" y1="528" y2="528" stroke="#0080c0" stroke-width="1"/>
+   <text x="443" y="538" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">PK_PERFIL_USUARIO</text>
+   <text x="443" y="551" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">UK_PERFIL_USUARIO_01</text>
+   <text x="577" y="538" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;pk&gt;</text>
+   <text x="577" y="551" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;ak&gt;</text>
+   <polyline fill="none" points="426,538 427,539 429,539 430,538 434,538 434,539 436,539 436,537 430,537 429,535 427,535 426,537 426,538" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="426,551 427,552 429,552 430,551 434,551 434,552 436,552 436,550 430,550 429,548 427,548 426,550 426,551" stroke="#000000" stroke-width="1"/>
+   <line x1="419" x2="696" y1="558" y2="558" stroke="#0080c0" stroke-width="1"/>
+   <line x1="419" x2="696" y1="575" y2="575" stroke="#0080c0" stroke-width="1"/>
+   <line x1="419" x2="696" y1="592" y2="592" stroke="#0080c0" stroke-width="1"/>
+   <text x="423" y="606" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">Armazena os perfis dos sistemas. Os perfis são utilizados </text>
+   <text x="423" y="616" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">para configurar os níveis de acesso que o usuário possui </text>
+   <text x="423" y="626" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">no sistema.</text>
+   <rect x="437" y="223" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="437" y="223" fill="url(#Gradient2)" width="317" height="185" stroke="#0080c0" stroke-width="1"/>
+   <text x="595" y="234" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">TB_USUARIO_SISTEMA</text>
+   <line x1="437" x2="754" y1="240" y2="240" stroke="#0080c0" stroke-width="1"/>
+   <text x="442" y="250" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">ID_USUARIO_SISTEMA</text>
+   <text x="442" y="263" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">CO_PERFIL_USUARIO</text>
+   <text x="442" y="276" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">NO_PESSOA</text>
+   <text x="442" y="289" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">TX_EMAIL</text>
+   <text x="442" y="302" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">TX_SENHA</text>
+   <text x="442" y="315" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">IN_ATIVO</text>
+   <text x="565" y="250" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">NUMBER(9)</text>
+   <text x="565" y="263" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">NUMBER(3)</text>
+   <text x="565" y="276" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">VARCHAR2(120)</text>
+   <text x="565" y="289" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">VARCHAR2(120)</text>
+   <text x="565" y="302" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">VARCHAR2(120)</text>
+   <text x="565" y="315" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">NUMBER(1)</text>
+   <text x="652" y="250" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="652" y="263" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;fk&gt;</text>
+   <text x="652" y="289" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;ak&gt;</text>
+   <text x="682" y="263" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;i&gt;</text>
+   <text x="705" y="250" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">not null</text>
+   <text x="705" y="263" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <text x="705" y="276" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <text x="705" y="289" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <text x="705" y="302" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <text x="705" y="315" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <line x1="437" x2="754" y1="322" y2="322" stroke="#0080c0" stroke-width="1"/>
+   <text x="461" y="332" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">PK_USUARIO_SISTEMA</text>
+   <text x="461" y="345" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">UK_USUARIO_SISTEMA_01</text>
+   <text x="606" y="332" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;pk&gt;</text>
+   <text x="606" y="345" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;ak&gt;</text>
+   <polyline fill="none" points="444,331 445,333 447,333 448,331 452,331 452,333 454,333 454,330 448,330 447,329 445,329 444,330 444,331" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="444,344 445,346 447,346 448,344 452,344 452,346 454,346 454,343 448,343 447,342 445,342 444,343 444,344" stroke="#000000" stroke-width="1"/>
+   <line x1="437" x2="754" y1="352" y2="352" stroke="#0080c0" stroke-width="1"/>
+   <text x="461" y="362" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">IDX_USUARIO_SISTEMA_01</text>
+   <polyline fill="none" points="445,366 453,366 453,355 445,355 445,366" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="447,363 451,363 451,361 447,361 447,363" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="447,359 451,359 451,357 447,357 447,359" stroke="#000000" stroke-width="1"/>
+   <line x1="437" x2="754" y1="369" y2="369" stroke="#0080c0" stroke-width="1"/>
+   <line x1="437" x2="754" y1="386" y2="386" stroke="#0080c0" stroke-width="1"/>
+   <text x="441" y="397" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">Armazena os usuários que possui cadastro no sistema.</text>
+   <rect x="901" y="638" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="901" y="638" fill="url(#Gradient3)" width="323" height="158" stroke="#0080c0" stroke-width="1"/>
+   <text x="1062" y="649" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">TB_MODULO_SISTEMA</text>
+   <line x1="901" x2="1224" y1="655" y2="655" stroke="#0080c0" stroke-width="1"/>
+   <text x="906" y="665" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">CO_MODULO_SISTEMA</text>
+   <text x="906" y="678" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">NO_MODULO_SISTEMA</text>
+   <text x="906" y="691" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">IN_ATIVO</text>
+   <text x="1033" y="665" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">NUMBER(3)</text>
+   <text x="1033" y="678" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">VARCHAR2(255)</text>
+   <text x="1033" y="691" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">NUMBER(1)</text>
+   <text x="1120" y="665" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1120" y="678" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;ak&gt;</text>
+   <text x="1150" y="665" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">not null</text>
+   <text x="1150" y="678" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <text x="1150" y="691" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <line x1="901" x2="1224" y1="698" y2="698" stroke="#0080c0" stroke-width="1"/>
+   <text x="925" y="708" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">PK_MODULO_SISTEMA</text>
+   <text x="925" y="721" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">UK_MODULO_SISTEMA_01</text>
+   <text x="1069" y="708" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;pk&gt;</text>
+   <text x="1069" y="721" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;ak&gt;</text>
+   <polyline fill="none" points="907,707 909,709 911,709 912,707 916,707 916,709 918,709 918,706 912,706 911,705 909,705 907,706 907,707" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="907,720 909,722 911,722 912,720 916,720 916,722 918,722 918,719 912,719 911,718 909,718 907,719 907,720" stroke="#000000" stroke-width="1"/>
+   <line x1="901" x2="1224" y1="728" y2="728" stroke="#0080c0" stroke-width="1"/>
+   <line x1="901" x2="1224" y1="745" y2="745" stroke="#0080c0" stroke-width="1"/>
+   <line x1="901" x2="1224" y1="762" y2="762" stroke="#0080c0" stroke-width="1"/>
+   <text x="905" y="775" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">Armazena os módulos do sistema. Os módulos são funcionalidades </text>
+   <text x="905" y="785" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">que o usuário possui acesso no sistema.</text>
+   <rect x="976" y="317" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient4" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="976" y="317" fill="url(#Gradient4)" width="276" height="154" stroke="#0080c0" stroke-width="1"/>
+   <text x="1114" y="328" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">TB_DEPARTAMENTO</text>
+   <line x1="976" x2="1252" y1="334" y2="334" stroke="#0080c0" stroke-width="1"/>
+   <text x="980" y="344" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">CO_DEPARTAMENTO</text>
+   <text x="980" y="357" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">NO_DEPARTAMENTO</text>
+   <text x="980" y="370" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">IN_ATIVO</text>
+   <text x="1096" y="344" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">NUMBER(3)</text>
+   <text x="1096" y="357" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">VARCHAR2(50)</text>
+   <text x="1096" y="370" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">NUMBER(1)</text>
+   <text x="1177" y="344" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1177" y="357" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;ak&gt;</text>
+   <text x="1207" y="344" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">not null</text>
+   <text x="1207" y="357" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <text x="1207" y="370" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <line x1="976" x2="1252" y1="377" y2="377" stroke="#0080c0" stroke-width="1"/>
+   <text x="1000" y="387" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">PK_DEPARTAMENTO</text>
+   <text x="1000" y="400" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">UK_DEPARTAMENTO_01</text>
+   <text x="1133" y="387" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;pk&gt;</text>
+   <text x="1133" y="400" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;ak&gt;</text>
+   <polyline fill="none" points="982,386 983,388 985,388 986,386 991,386 991,388 993,388 993,385 986,385 985,384 983,384 982,385 982,386" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="982,399 983,401 985,401 986,399 991,399 991,401 993,401 993,398 986,398 985,397 983,397 982,398 982,399" stroke="#000000" stroke-width="1"/>
+   <line x1="976" x2="1252" y1="407" y2="407" stroke="#0080c0" stroke-width="1"/>
+   <line x1="976" x2="1252" y1="424" y2="424" stroke="#0080c0" stroke-width="1"/>
+   <line x1="976" x2="1252" y1="441" y2="441" stroke="#0080c0" stroke-width="1"/>
+   <text x="980" y="454" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">Armazena os departamentos de alocação dos </text>
+   <text x="980" y="464" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">funcionários da empresa.</text>
+   <rect x="31" y="181" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient5" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="31" y="181" fill="url(#Gradient5)" width="321" height="154" stroke="#0080c0" stroke-width="1"/>
+   <text x="191" y="192" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">TB_HISTORICO_ACESSO</text>
+   <line x1="31" x2="352" y1="198" y2="198" stroke="#0080c0" stroke-width="1"/>
+   <text x="36" y="208" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">ID_HISTORICO_ACESSO</text>
+   <text x="36" y="221" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">ID_USUARIO_SISTEMA</text>
+   <text x="36" y="234" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">DT_ACESSO</text>
+   <text x="36" y="247" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">NU_IP</text>
+   <text x="36" y="260" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">NO_NAVEGADOR</text>
+   <text x="166" y="208" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">NUMBER(10)</text>
+   <text x="166" y="221" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">NUMBER(9)</text>
+   <text x="166" y="234" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">DATE</text>
+   <text x="166" y="247" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">VARCHAR2(55)</text>
+   <text x="166" y="260" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">VARCHAR2(500)</text>
+   <text x="253" y="208" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="253" y="221" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;fk&gt;</text>
+   <text x="283" y="221" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;i&gt;</text>
+   <text x="306" y="208" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">not null</text>
+   <text x="306" y="221" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <text x="306" y="234" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <text x="306" y="247" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <text x="306" y="260" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <line x1="31" x2="352" y1="267" y2="267" stroke="#0080c0" stroke-width="1"/>
+   <text x="55" y="277" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">PK_HISTORICO_ACESSO</text>
+   <text x="189" y="277" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;pk&gt;</text>
+   <polyline fill="none" points="38,277 39,278 41,278 42,277 46,277 46,278 48,278 48,276 42,276 41,274 39,274 38,276 38,277" stroke="#000000" stroke-width="1"/>
+   <line x1="31" x2="352" y1="284" y2="284" stroke="#0080c0" stroke-width="1"/>
+   <text x="55" y="294" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">IDX_HISTORICO_ACESSO_01</text>
+   <polyline fill="none" points="39,298 47,298 47,288 39,288 39,298" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="41,296 45,296 45,294 41,294 41,296" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="41,292 45,292 45,290 41,290 41,292" stroke="#000000" stroke-width="1"/>
+   <line x1="31" x2="352" y1="301" y2="301" stroke="#0080c0" stroke-width="1"/>
+   <line x1="31" x2="352" y1="318" y2="318" stroke="#0080c0" stroke-width="1"/>
+   <text x="35" y="329" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">Armazena o histórico de acesso dos usuários no sistema.</text>
+   <rect x="393" y="680" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient6" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="393" y="680" fill="url(#Gradient6)" width="287" height="141" stroke="#0080c0" stroke-width="1"/>
+   <text x="536" y="691" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">TB_PERFIL_MODULO</text>
+   <line x1="393" x2="680" y1="697" y2="697" stroke="#0080c0" stroke-width="1"/>
+   <text x="398" y="707" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">CO_PERFIL_USUARIO</text>
+   <text x="398" y="720" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">CO_MODULO_SISTEMA</text>
+   <text x="398" y="733" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">TP_OPERACAO</text>
+   <text x="525" y="707" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">NUMBER(3)</text>
+   <text x="525" y="720" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">NUMBER(3)</text>
+   <text x="525" y="733" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">NUMBER(1)</text>
+   <text x="589" y="707" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">&lt;pk,fk1&gt;</text>
+   <text x="589" y="720" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">&lt;pk,fk2&gt;</text>
+   <text x="635" y="707" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">not null</text>
+   <text x="635" y="720" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">not null</text>
+   <text x="635" y="733" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <line x1="393" x2="680" y1="740" y2="740" stroke="#0080c0" stroke-width="1"/>
+   <text x="417" y="750" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">PK_PERFIL_MODULO</text>
+   <text x="532" y="750" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;pk&gt;</text>
+   <polyline fill="none" points="400,750 401,751 403,751 404,750 408,750 408,751 410,751 410,749 404,749 403,747 401,747 400,749 400,750" stroke="#000000" stroke-width="1"/>
+   <line x1="393" x2="680" y1="757" y2="757" stroke="#0080c0" stroke-width="1"/>
+   <line x1="393" x2="680" y1="774" y2="774" stroke="#0080c0" stroke-width="1"/>
+   <line x1="393" x2="680" y1="791" y2="791" stroke="#0080c0" stroke-width="1"/>
+   <text x="397" y="804" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">Armazena os vinculos entre os perfis do usuários e os </text>
+   <text x="397" y="814" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">modulos do sistema.</text>
+   <rect x="803" y="2" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient7" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="803" y="2" fill="url(#Gradient7)" width="373" height="192" stroke="#0080c0" stroke-width="1"/>
+   <text x="989" y="13" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">TB_USUARIO_DEPARTAMENTO</text>
+   <line x1="803" x2="1176" y1="19" y2="19" stroke="#0080c0" stroke-width="1"/>
+   <text x="808" y="29" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">ID_USUARIO_DEPARTAMENTO</text>
+   <text x="808" y="42" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">ID_USUARIO_SISTEMA</text>
+   <text x="808" y="55" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">CO_DEPARTAMENTO</text>
+   <text x="808" y="68" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">DT_INGRESSO_DEPARTAMENTO</text>
+   <text x="808" y="81" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">DT_SAIDA_DEPARTAMENTO</text>
+   <text x="808" y="94" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">IN_PENDENTE_LOGIN</text>
+   <text x="983" y="29" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">NUMBER(10)</text>
+   <text x="983" y="42" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">NUMBER(9)</text>
+   <text x="983" y="55" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">NUMBER(3)</text>
+   <text x="983" y="68" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">DATE</text>
+   <text x="983" y="81" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">DATE</text>
+   <text x="983" y="94" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">NUMBER(1)</text>
+   <text x="1053" y="29" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1053" y="42" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;ak,fk2&gt;</text>
+   <text x="1053" y="55" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;ak,fk1&gt;</text>
+   <text x="1053" y="68" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;ak&gt;</text>
+   <text x="1099" y="42" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;i2&gt;</text>
+   <text x="1099" y="55" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;i1&gt;</text>
+   <text x="1128" y="29" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-decoration="underline">not null</text>
+   <text x="1128" y="42" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <text x="1128" y="55" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <text x="1128" y="68" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">null</text>
+   <text x="1128" y="81" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">null</text>
+   <text x="1128" y="94" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">not null</text>
+   <line x1="803" x2="1176" y1="101" y2="101" stroke="#0080c0" stroke-width="1"/>
+   <text x="828" y="111" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">PK_USUARIO_DEPARTAMENTO</text>
+   <text x="828" y="123" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">UK_USUARIO_DEPARTAMENTO_01</text>
+   <text x="1013" y="111" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;pk&gt;</text>
+   <text x="1013" y="123" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">&lt;ak&gt;</text>
+   <polyline fill="none" points="810,110 811,112 813,112 814,110 818,110 818,112 820,112 820,109 814,109 813,107 811,107 810,109 810,110" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="810,123 811,125 813,125 814,123 818,123 818,125 820,125 820,122 814,122 813,120 811,120 810,122 810,123" stroke="#000000" stroke-width="1"/>
+   <line x1="803" x2="1176" y1="130" y2="130" stroke="#0080c0" stroke-width="1"/>
+   <text x="828" y="140" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">IDX_USUARIO_DEPARTAMENTO_01</text>
+   <text x="828" y="153" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">IDX_USUARIO_DEPARTAMENTO_02</text>
+   <polyline fill="none" points="811,144 819,144 819,134 811,134 811,144" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="814,142 817,142 817,140 814,140 814,142" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="814,138 817,138 817,136 814,136 814,138" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="811,157 819,157 819,147 811,147 811,157" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="814,155 817,155 817,153 814,153 814,155" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="814,151 817,151 817,149 814,149 814,151" stroke="#000000" stroke-width="1"/>
+   <line x1="803" x2="1176" y1="160" y2="160" stroke="#0080c0" stroke-width="1"/>
+   <line x1="803" x2="1176" y1="177" y2="177" stroke="#0080c0" stroke-width="1"/>
+   <text x="807" y="188" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">Armazena o histórico de alocação dos usuários nos departamentos.</text>
+   <defs>
+      <linearGradient id="Gradient8" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d0d0ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2" y="749" rx="21" ry="21" fill="url(#Gradient8)" width="303" height="167" stroke="#8080c0" stroke-width="1"/>
+   <text x="153" y="760" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">VW_USUARIO_SISTEMA</text>
+   <line x1="2" x2="305" y1="766" y2="766" stroke="#8080c0" stroke-width="1"/>
+   <text x="17" y="776" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">ID_USUARIO_SISTEMA</text>
+   <text x="17" y="789" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">NO_PESSOA</text>
+   <text x="17" y="802" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">DS_STATUS</text>
+   <text x="17" y="815" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">DT_ULTIMO_LOGIN</text>
+   <text x="17" y="828" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">NO_DEPARTAMENTO_ATUAL</text>
+   <text x="17" y="841" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">TX_LISTA_MODULOS</text>
+   <line x1="2" x2="305" y1="848" y2="848" stroke="#8080c0" stroke-width="1"/>
+   <text x="37" y="858" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">tb_usuario_sistema</text>
+   <text x="37" y="871" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">cte_modulo_sistema</text>
+   <text x="37" y="884" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">cte_historico_acesso</text>
+   <text x="37" y="897" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'">cte_departamento</text>
+   <polyline fill="none" points="19,862 29,862 29,851 19,851 19,862 19,854 29,854" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="19,875 29,875 29,864 19,864 19,875 19,867 29,867" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="19,888 29,888 29,877 19,877 19,888 19,880 29,880" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="19,901 29,901 29,890 19,890 19,901 19,893 29,893" stroke="#000000" stroke-width="1"/>
+</svg>
